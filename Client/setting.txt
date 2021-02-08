@@ -1,0 +1,4 @@
+images/backup/
+images/separated/
+images/predicted/
+90
